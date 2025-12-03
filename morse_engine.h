@@ -8,7 +8,7 @@
 
 static constexpr uint16_t PROX_THRESHOLD = 75;
 static constexpr uint16_t TOUCH_THRESHOLD = 200;
-static constexpr uint32_t UNIT_TIME = 240;
+static constexpr uint32_t UNIT_TIME = 480;
 
 static constexpr uint32_t RED   = 0xFF0000;
 static constexpr uint32_t GREEN = 0x00FF00;
